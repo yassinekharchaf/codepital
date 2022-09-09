@@ -4,7 +4,7 @@ import { Doctor } from "./doctor.js";
 import { Chat } from "./chat.js";
 import { Pharmacie } from "./pharmacie.js";
 
-// Création des objets
+// Création des objets étape par étape
 
 // Créer le doctor
 var doctor = new Doctor("Debugger", 0);
